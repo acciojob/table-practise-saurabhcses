@@ -1,1 +1,6 @@
 /*  your css code here. If applicable */
+table{
+  border: 3px solid black;
+ border-collapse: collapse;
+  background: yellow;
+}
